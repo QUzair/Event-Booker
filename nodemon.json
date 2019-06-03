@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "uzair",
+        "MONGO_PASSWORD": "qure55",
+        "MONGO_DB": "events-booker",
+        "PORT":"3000"
+    }
+}
